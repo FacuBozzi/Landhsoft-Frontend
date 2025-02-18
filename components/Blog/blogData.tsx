@@ -6,21 +6,21 @@ const BlogData: Blog[] = [
     mainImage: "/images/blog/newBlog-01.png",
     title: "Silicore",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Empowering blockchain traders with real-time data, smart insights, and seamless user engagement.",
   },
   {
     _id: 2,
     mainImage: "/images/blog/newBlog-02.png",
     title: "Bumeran",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Revolutionizing job search with a secure, scalable app connecting talent and opportunities.",
   },
   {
     _id: 3,
     mainImage: "/images/blog/newBlog-03.png",
     title: "Lebane",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Transforming real estate with a robust SaaS solution tailored to industry needs.",
   },
   // {
   //   _id: 2,

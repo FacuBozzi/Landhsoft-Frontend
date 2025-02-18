@@ -2,10 +2,10 @@ import SidebarLink from "@/components/Docs/SidebarLink";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Docs Page - Solid SaaS Boilerplate",
+  title: "Landhsoft | Docs",
 
   // other metadata
-  description: "This is Docs page for Solid Pro"
+  description: "Docs page",
 };
 
 export default function DocsPage() {

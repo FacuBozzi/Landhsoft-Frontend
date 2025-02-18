@@ -43,7 +43,7 @@ const Header = () => {
               alt="logo"
               width={119.03}
               height={30}
-              className="hidden w-full dark:block"
+              className="hidden w-3/5 dark:block"
             />
             <Image
               src="/images/logo/logo-light.svg"
@@ -104,7 +104,7 @@ const Header = () => {
         >
           <nav>
             <ul className="flex flex-col gap-5 xl:flex-row xl:items-center xl:gap-10">
-              {menuData.map((menuItem, key) => (
+              {/* {menuData.map((menuItem, key) => (
                 <li key={key} className={menuItem.submenu && "group relative"}>
                   {menuItem.submenu ? (
                     <>
@@ -147,25 +147,25 @@ const Header = () => {
                     </Link>
                   )}
                 </li>
-              ))}
+              ))} */}
             </ul>
           </nav>
 
           <div className="mt-7 flex items-center gap-6 xl:mt-0">
-            <ThemeToggler />
+            {/* <ThemeToggler /> */}
 
-            <Link
+            {/* <Link
               href="https://github.com/NextJSTemplates/solid-nextjs"
               className="text-regular font-medium text-waterloo hover:text-primary"
             >
               GitHub Repo 🌟
-            </Link>
+            </Link> */}
 
             <Link
               href="https://nextjstemplates.com/templates/solid"
               className="flex items-center justify-center rounded-full bg-primary px-7.5 py-2.5 text-regular text-white duration-300 ease-in-out hover:bg-primaryho"
             >
-              Get Pro 🔥
+              Get Started
             </Link>
           </div>
         </div>

@@ -37,8 +37,8 @@ const Footer = () => {
                     className="dark:hidden"
                   />
                   <Image
-                    width={110}
-                    height={80}
+                    width={143}
+                    height={104}
                     src="/images/logo/logo-dark.svg"
                     alt="Logo"
                     className="hidden dark:block"

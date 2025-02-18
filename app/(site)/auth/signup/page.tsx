@@ -2,10 +2,10 @@ import Signup from "@/components/Auth/Signup";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign Up Page - Solid SaaS Boilerplate",
+  title: "Landhsoft",
 
   // other metadata
-  description: "This is Sign Up page for Startup Pro"
+  description: "Custom software development",
 };
 
 export default function Register() {

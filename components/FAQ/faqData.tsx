@@ -13,7 +13,7 @@ const faqData: FAQ[] = [
   },
   {
     id: 3,
-    quest: "How do you ensure quality and timely delivery?",
+    quest: "How Do You Ensure Quality and Timely Delivery?",
     ans: "We use agile methodologies, rigorous quality assurance, and proactive communication to ensure every project is delivered on time and meets the highest standards.",
   },
 ];

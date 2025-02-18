@@ -183,8 +183,7 @@ const Contact = () => {
                   Our Location
                 </h3>
                 <p>
-                  El Salvador 5707, C1414BQG Ciudad Autonoma de Buenos Aires,
-                  Argentina
+                  Maure 1560, C1426 Ciudad Autonoma de Buenos Aires, Argentina
                 </p>
               </div>
               <div className="5 mb-7">

@@ -3,18 +3,18 @@ import { FAQ } from "@/types/faq";
 const faqData: FAQ[] = [
   {
     id: 1,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "What Software Services Do You Offer?",
+    ans: "We provide software development services to businesses of all sizes, helping them succeed by building scalable solutions, seamless digital experiences, and robust technical foundations.",
   },
   {
     id: 2,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "What About Staff Augmentation and Outsourcing?",
+    ans: "We offer staff augmentation, team-as-a-service, and full outsourcing to help you scale your development team. Whether you need experts for specific roles or a dedicated team, we provide flexible solutions tailored to your needs.",
   },
   {
     id: 3,
-    quest: "Lorem ipsum dolor sit amet, consectetur",
-    ans: "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities, digital experiences.",
+    quest: "How do you ensure quality and timely delivery?",
+    ans: "We use agile methodologies, rigorous quality assurance, and proactive communication to ensure every project is delivered on time and meets the highest standards.",
   },
 ];
 
